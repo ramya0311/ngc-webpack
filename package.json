@@ -94,7 +94,7 @@
     "ts-jest": "^20.0.7",
     "tsconfig-paths": "^2.3.0",
     "typescript": "~2.4.2",
-    "webpack": "^3.8.1",
+    "webpack": "4.0.0",
     "zone.js": "^0.8.14"
   },
   "bugs": {
