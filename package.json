@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shlomiassaf/ngc-webpack.git"
+    "url": "git+https://github.com/ramya0311/ngc-webpack.git"
   },
   "main": "index.js",
   "bin": {
@@ -43,15 +43,15 @@
     "ts-node": "^3.2.0"
   },
   "peerDependencies": {
-    "@angular/compiler-cli": "^5.0.0",
-    "@ngtools/webpack": "^1.8.0"
+    "@angular/compiler-cli": "^8.0.1",
+    "@ngtools/webpack": "^8.0.3"
   },
   "devDependencies": {
     "@angular-devkit/build-optimizer": "^0.0.32",
     "@angular/cli": "^1.5.0",
     "@angular/common": "^5.0.0",
     "@angular/compiler": "^5.0.0",
-    "@angular/compiler-cli": "^5.0.0",
+    "@angular/compiler-cli": "^8.0.1",
     "@angular/core": "^5.0.0",
     "@angular/forms": "^5.0.0",
     "@angular/http": "^5.0.0",
@@ -100,5 +100,5 @@
   "bugs": {
     "url": "https://github.com/shlomiassaf/ngc-webpack/issues"
   },
-  "homepage": "https://github.com/shlomiassaf/ngc-webpack#readme"
+  "homepage": "https://github.com/ramya0311/ngc-webpack#readme"
 }
